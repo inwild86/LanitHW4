@@ -13,4 +13,15 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/me.xethh.utils/RegUtils -->
+        <dependency>
+            <groupId>me.xethh.utils</groupId>
+            <artifactId>RegUtils</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+
+    </dependencies>
+
+
 </project>
